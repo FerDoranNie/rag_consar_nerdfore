@@ -1,0 +1,12 @@
+name: Run Rag Consar Script Daily
+on:
+  schedule:
+    - cron: '0 10 * * *'  # Se ejecuta diariamente a las 10 horas UTC 4 am tiempo de México https://www.worldtimebuddy.com/
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Run script
+        run: python rag_consar_pipeline.py

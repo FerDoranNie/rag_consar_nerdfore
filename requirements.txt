@@ -1,0 +1,26 @@
+## Librerías generales
+requests
+pandas
+numpy
+## Web Scraping 
+beautifulsoup4
+pytest-playwright 
+playwright 
+selenium
+## Procesamiento de lenguaje natural
+tiktoken
+unidecode
+spacy
+spacytextblob
+langextract
+nltk
+textblob
+https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.8.0/es_core_news_md-3.8.0-py3-none-any.whl
+chonkie[all]
+## Procesamiento de archivos
+pdfplumber
+docling
+### Google Drive
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
