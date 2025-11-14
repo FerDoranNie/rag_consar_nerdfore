@@ -41,7 +41,9 @@ No se añadirán datos de fuentes no oficiales.
 ## La CONSAR tiene su propio bot ¿Por qué este es diferente?
 La CONSAR ha creado su propio bot llamado "Puerquín", el cuál es útil, pero aún
 no es capaz de responder preguntas complejas sobre los documentos 
-[Bot Puerquín CONSAR](https://www.consar.gob.mx/gobmx/aplicativo/chatbot/botSAR)
+
+- [Bot Puerquín CONSAR](https://www.consar.gob.mx/gobmx/aplicativo/chatbot/botSAR)
+
 Nota: La página del bot falla regulamente.
 
 ## Pseudo RAG y RAG
