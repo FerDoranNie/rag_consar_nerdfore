@@ -8,5 +8,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-      - name: Run script
-        run: python rag_consar_pipeline.py
+      - name: Run script with credentials
+        env:
+          GOOGLE_API_TOKEN: ${{ secrets.GOOGLE_API_TOKEN }}
+        run: python rag_consar_pipeline.py # Asegúrate que este script use las credenciales del entorno
