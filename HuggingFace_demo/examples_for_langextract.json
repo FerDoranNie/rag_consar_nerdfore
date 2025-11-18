@@ -1,0 +1,197 @@
+[
+  {
+    "text": "Lucía, una persona de 39 años que vive en Bogotá, Chile, trabaja como Diseñadora gráfica en el sector Creativo. Está Casado y tiene 0 hijos. Tiene estudios de nivel Posgrado y sus ingresos son Medios. Se identifica con el arquetipo Creadora y tiene una personalidad Analítica. Le motivan Crecimiento profesional y se frustra con Falta de tiempo. Necesita Capacitación continua y valora Compromiso. Su estilo de vida es Urbano. En su biografía destaca Cambio de carrera. Ha vivido momentos vitales como Ascenso laboral y tiene experiencia en Diseño UX. Respecto a la privacidad, Protección de identidad. Le influencian marcas como Bloomberg, prefiere canales como TikTok y consulta fuentes como Blogs especializados. Sus dolores actuales incluyen Falta de reconocimiento y espera soluciones como Mejora en comunicación. Sus triggers de decisión incluyen Demostraciones gratuitas.",
+    "extractions": [
+      {
+        "extraction_class": "usuario_sintetico",
+        "extraction_text": "Perfil de Lucía, Diseñadora gráfica de Chile",
+        "attributes": {
+          "nombre": "Lucía",
+          "edad": 39,
+          "pais": "Chile",
+          "estado_geografico": "Lima",
+          "municipio": "Bogotá",
+          "estado_civil": "Casado",
+          "hijos": 0,
+          "nivel_ingresos": "Medios",
+          "ocupacion": "Diseñadora gráfica",
+          "sector": "Creativo",
+          "nivel_educativo": "Posgrado",
+          "arquetipo": "Creadora",
+          "personalidad": "Analítica",
+          "motivaciones": "Crecimiento profesional",
+          "frustraciones": "Falta de tiempo",
+          "necesidades": "Capacitación continua",
+          "valores": "Compromiso",
+          "estilo_vida": "Urbano",
+          "biografia": "Cambio de carrera",
+          "momentos_vitales": "Ascenso laboral",
+          "experiencias": "Diseño UX",
+          "privacidad_confidencialidad": "Protección de identidad",
+          "marcas_influencia": "Bloomberg",
+          "canales_preferidos": "TikTok",
+          "fuentes_informacion": "Blogs especializados",
+          "dolores_actuales": "Falta de reconocimiento",
+          "expectativas_solucion": "Mejora en comunicación",
+          "triggers_decision": "Demostraciones gratuitas"
+        }
+      }
+    ]
+  },
+  {
+    "text": "Carlos, una persona de 39 años que vive en Viña del Mar, Perú, trabaja como Diseñadora gráfica en el sector Creativo. Está Casado y tiene 4 hijos. Tiene estudios de nivel Universitario y sus ingresos son Medios. Se identifica con el arquetipo Visionaria y tiene una personalidad Creativa. Le motivan Reconocimiento y se frustra con Falta de innovación. Necesita Espacios creativos y valora Compromiso. Su estilo de vida es Metódico. En su biografía destaca Cambio de carrera. Ha vivido momentos vitales como Ascenso laboral y tiene experiencia en Ventas minoristas. Respecto a la privacidad, Uso responsable de tecnología. Le influencian marcas como Microsoft, prefiere canales como YouTube y consulta fuentes como Informes financieros. Sus dolores actuales incluyen Sobrecarga laboral y espera soluciones como Mejora en comunicación. Sus triggers de decisión incluyen Validación por expertos.",
+    "extractions": [
+      {
+        "extraction_class": "usuario_sintetico",
+        "extraction_text": "Perfil de Carlos, Diseñadora gráfica de Perú",
+        "attributes": {
+          "nombre": "Carlos",
+          "edad": 39,
+          "pais": "Perú",
+          "estado_geografico": "Nuevo León",
+          "municipio": "Viña del Mar",
+          "estado_civil": "Casado",
+          "hijos": 4,
+          "nivel_ingresos": "Medios",
+          "ocupacion": "Diseñadora gráfica",
+          "sector": "Creativo",
+          "nivel_educativo": "Universitario",
+          "arquetipo": "Visionaria",
+          "personalidad": "Creativa",
+          "motivaciones": "Reconocimiento",
+          "frustraciones": "Falta de innovación",
+          "necesidades": "Espacios creativos",
+          "valores": "Compromiso",
+          "estilo_vida": "Metódico",
+          "biografia": "Cambio de carrera",
+          "momentos_vitales": "Ascenso laboral",
+          "experiencias": "Ventas minoristas",
+          "privacidad_confidencialidad": "Uso responsable de tecnología",
+          "marcas_influencia": "Microsoft",
+          "canales_preferidos": "YouTube",
+          "fuentes_informacion": "Informes financieros",
+          "dolores_actuales": "Sobrecarga laboral",
+          "expectativas_solucion": "Mejora en comunicación",
+          "triggers_decision": "Validación por expertos"
+        }
+      }
+    ]
+  },
+  {
+    "text": "Jorge, una persona de 45 años que vive en Viña del Mar, México, trabaja como Emprendedora en el sector Bancario. Está Divorciado y tiene 3 hijos. Tiene estudios de nivel Posgrado y sus ingresos son Bajos. Se identifica con el arquetipo Exploradora y tiene una personalidad Creativa. Le motivan Independencia y se frustra con Desorganización. Necesita Capacitación continua y valora Colaboración. Su estilo de vida es Metódico. En su biografía destaca Participación en proyectos comunitarios. Ha vivido momentos vitales como Cambio de país y tiene experiencia en Fusiones y adquisiciones. Respecto a la privacidad, Uso responsable de tecnología. Le influencian marcas como Microsoft, prefiere canales como TikTok y consulta fuentes como Blogs especializados. Sus dolores actuales incluyen Falta de reconocimiento y espera soluciones como Optimización de procesos. Sus triggers de decisión incluyen Publicidad dirigida.",
+    "extractions": [
+      {
+        "extraction_class": "usuario_sintetico",
+        "extraction_text": "Perfil de Jorge, Emprendedora de México",
+        "attributes": {
+          "nombre": "Jorge",
+          "edad": 45,
+          "pais": "México",
+          "estado_geografico": "Buenos Aires",
+          "municipio": "Viña del Mar",
+          "estado_civil": "Divorciado",
+          "hijos": 3,
+          "nivel_ingresos": "Bajos",
+          "ocupacion": "Emprendedora",
+          "sector": "Bancario",
+          "nivel_educativo": "Posgrado",
+          "arquetipo": "Exploradora",
+          "personalidad": "Creativa",
+          "motivaciones": "Independencia",
+          "frustraciones": "Desorganización",
+          "necesidades": "Capacitación continua",
+          "valores": "Colaboración",
+          "estilo_vida": "Metódico",
+          "biografia": "Participación en proyectos comunitarios",
+          "momentos_vitales": "Cambio de país",
+          "experiencias": "Fusiones y adquisiciones",
+          "privacidad_confidencialidad": "Uso responsable de tecnología",
+          "marcas_influencia": "Microsoft",
+          "canales_preferidos": "TikTok",
+          "fuentes_informacion": "Blogs especializados",
+          "dolores_actuales": "Falta de reconocimiento",
+          "expectativas_solucion": "Optimización de procesos",
+          "triggers_decision": "Publicidad dirigida"
+        }
+      }
+    ]
+  },
+  {
+    "text": "María, una persona de 28 años que vive en La Plata, Colombia, trabaja como Analista financiero en el sector Bancario. Está Divorciado y tiene 0 hijos. Tiene estudios de nivel Universitario y sus ingresos son Medios. Se identifica con el arquetipo Visionaria y tiene una personalidad Creativa. Le motivan Independencia y se frustra con Falta de recursos. Necesita Herramientas digitales y valora Libertad. Su estilo de vida es Metódico. En su biografía destaca Participación en proyectos comunitarios. Ha vivido momentos vitales como Cambio de país y tiene experiencia en Diseño UX. Respecto a la privacidad, Protección de identidad. Le influencian marcas como Adobe, prefiere canales como TikTok y consulta fuentes como Podcasts. Sus dolores actuales incluyen Sobrecarga laboral y espera soluciones como Acceso a recursos. Sus triggers de decisión incluyen Validación por expertos.",
+    "extractions": [
+      {
+        "extraction_class": "usuario_sintetico",
+        "extraction_text": "Perfil de María, Analista financiero de Colombia",
+        "attributes": {
+          "nombre": "María",
+          "edad": 28,
+          "pais": "Colombia",
+          "estado_geografico": "Nuevo León",
+          "municipio": "La Plata",
+          "estado_civil": "Divorciado",
+          "hijos": 0,
+          "nivel_ingresos": "Medios",
+          "ocupacion": "Analista financiero",
+          "sector": "Bancario",
+          "nivel_educativo": "Universitario",
+          "arquetipo": "Visionaria",
+          "personalidad": "Creativa",
+          "motivaciones": "Independencia",
+          "frustraciones": "Falta de recursos",
+          "necesidades": "Herramientas digitales",
+          "valores": "Libertad",
+          "estilo_vida": "Metódico",
+          "biografia": "Participación en proyectos comunitarios",
+          "momentos_vitales": "Cambio de país",
+          "experiencias": "Diseño UX",
+          "privacidad_confidencialidad": "Protección de identidad",
+          "marcas_influencia": "Adobe",
+          "canales_preferidos": "TikTok",
+          "fuentes_informacion": "Podcasts",
+          "dolores_actuales": "Sobrecarga laboral",
+          "expectativas_solucion": "Acceso a recursos",
+          "triggers_decision": "Validación por expertos"
+        }
+      }
+    ]
+  },
+  {
+    "text": "María, una persona de 28 años que vive en Viña del Mar, Perú, trabaja como Diseñadora gráfica en el sector Tecnológico. Está Casado y tiene 0 hijos. Tiene estudios de nivel Universitario y sus ingresos son Medios. Se identifica con el arquetipo Exploradora y tiene una personalidad Empática. Le motivan Independencia y se frustra con Falta de recursos. Necesita Flexibilidad laboral y valora Compromiso. Su estilo de vida es Activo. En su biografía destaca Fundación de una startup. Ha vivido momentos vitales como Obtención de título y tiene experiencia en Fusiones y adquisiciones. Respecto a la privacidad, Uso responsable de tecnología. Le influencian marcas como Microsoft, prefiere canales como Instagram y consulta fuentes como Blogs especializados. Sus dolores actuales incluyen Falta de reconocimiento y espera soluciones como Mejora en comunicación. Sus triggers de decisión incluyen Recomendación de colegas.",
+    "extractions": [
+      {
+        "extraction_class": "usuario_sintetico",
+        "extraction_text": "Perfil de María, Diseñadora gráfica de Perú",
+        "attributes": {
+          "nombre": "María",
+          "edad": 28,
+          "pais": "Perú",
+          "estado_geografico": "Valparaíso",
+          "municipio": "Viña del Mar",
+          "estado_civil": "Casado",
+          "hijos": 0,
+          "nivel_ingresos": "Medios",
+          "ocupacion": "Diseñadora gráfica",
+          "sector": "Tecnológico",
+          "nivel_educativo": "Universitario",
+          "arquetipo": "Exploradora",
+          "personalidad": "Empática",
+          "motivaciones": "Independencia",
+          "frustraciones": "Falta de recursos",
+          "necesidades": "Flexibilidad laboral",
+          "valores": "Compromiso",
+          "estilo_vida": "Activo",
+          "biografia": "Fundación de una startup",
+          "momentos_vitales": "Obtención de título",
+          "experiencias": "Fusiones y adquisiciones",
+          "privacidad_confidencialidad": "Uso responsable de tecnología",
+          "marcas_influencia": "Microsoft",
+          "canales_preferidos": "Instagram",
+          "fuentes_informacion": "Blogs especializados",
+          "dolores_actuales": "Falta de reconocimiento",
+          "expectativas_solucion": "Mejora en comunicación",
+          "triggers_decision": "Recomendación de colegas"
+        }
+      }
+    ]
+  }
+]
