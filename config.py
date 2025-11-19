@@ -16,3 +16,5 @@ from dotenv import load_dotenv
 load_dotenv(override=True)
 
 DRIVE_API_KEY = os.getenv('DRIVE_API_KEY')
+GITHUB_API_KEY = os.getenv("GITHUB_API_KEY")
+HUGGING_FACE_API_KEY = os.getenv("HUGGING_FACE_API_KEY")

@@ -20,6 +20,13 @@ chonkie[all]
 ## Procesamiento de archivos
 pdfplumber
 docling
+### Video a audio
+openai-whisper
+moviepy
+pydub
+SpeechRecognition
+### Imagenes a texto 
+pytesseract
 ### Google Drive
 google-api-python-client 
 google-auth-httplib2 
